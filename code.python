@@ -1,4 +1,5 @@
-//Returns a boolean value (True or False) depending on whether the input n is prime.
+'''Returns a boolean value (True or False) depending on whether the input n is prime.
+'''
 
 def prime_check_trial(n): 
     
